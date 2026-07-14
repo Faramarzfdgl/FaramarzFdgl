@@ -1,11 +1,8 @@
-<div align="center">
-  <img src="https://tenor.com/view/machine-learning-golf-learning-adaptive-optimizers-gradient-descent-gif-10403618698166797672" alt="Coding GIF" width="400"/>
-</div>
 
-<h1 align="center">
-  Hi there! I'm Faramarz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<<h1 align="center">
+  Faramarz | AI Researcher & Software Engineer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 </h1>
-<h3 align="center">Computer Engineer & AI Specialist</h3>
+<h3 align="center">Specializing in Machine Learning & Metaheuristic Optimization</h3>
 
 - 🔭 I’m currently focusing on **Machine Learning Models and Optimization Algorithms**.
 - 💻 Expertise: Backend Development, Data Processing, and Implementing Complex Software Systems.
