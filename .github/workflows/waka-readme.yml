@@ -2,7 +2,6 @@ name: WakaTime Readme
 
 on:
   schedule:
-    # اجرا به صورت خودکار هر شب ساعت ۱۲
     - cron: '0 0 * * *'
   workflow_dispatch:
 
