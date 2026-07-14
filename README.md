@@ -53,6 +53,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaramarzFdgl&theme=tokyonight" alt="GitHub Streak" />
   <br>
   
+### 📈 Activity Graph:
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaramarzFdgl&theme=tokyonight&hide_border=true" alt="Activity Graph" />
+</div>
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -81,9 +86,4 @@
 
  Last Updated on 14/07/2026 21:49:15 UTC
 <!--END_SECTION:waka-->
-  
-### 📈 Activity Graph:
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaramarzFdgl&theme=tokyonight&hide_border=true" alt="Activity Graph" />
-</div>
 </p>
