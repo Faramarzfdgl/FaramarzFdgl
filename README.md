@@ -54,6 +54,32 @@
   <br>
   
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 16 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 14 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 1 Public Repository 
+ > 
+> 🔑 1 Private Repository 
+ > 
+```text
+
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Faramarzfdgl/Faramarzfdgl/main/assets/bar_graph.png)
+
+
+ Last Updated on 14/07/2026 21:49:15 UTC
 <!--END_SECTION:waka-->
   
 ### 📈 Activity Graph:
