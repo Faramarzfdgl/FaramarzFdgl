@@ -50,6 +50,14 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaramarzFdgl&layout=compact&theme=tokyonight" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaramarzFdgl&theme=tokyonight" alt="GitHub Streak" />
+  <br>
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+  
+### 📈 Activity Graph:
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaramarzFdgl&theme=tokyonight&hide_border=true" alt="Activity Graph" />
+</div>
 </p>
