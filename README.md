@@ -1,5 +1,4 @@
-
-<<h1 align="center">
+<h1 align="center">
   Faramarz | AI Researcher & Software Engineer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 </h1>
 <h3 align="center">Specializing in Machine Learning & Metaheuristic Optimization</h3>
