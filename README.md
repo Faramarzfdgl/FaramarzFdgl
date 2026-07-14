@@ -59,13 +59,15 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 16 Bytes Used in GitHub's Storage 
  > 
-> 🏆 14 Contributions in the Year 2026
+> 🏆 15 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,6 +75,37 @@
  > 
 > 🔑 1 Private Repository 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+🌆 Daytime                8 commits           █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+🌃 Evening                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+🌙 Night                  30 commits          ██████████████████░░░░░░░   71.43 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  10 commits          ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+Wednesday                13 commits          ████████░░░░░░░░░░░░░░░░░   30.95 % 
+Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 18 commits          ███████████░░░░░░░░░░░░░░   42.86 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 ```text
 
 ```
@@ -84,6 +117,6 @@
 ![Lines of Code chart](https://raw.githubusercontent.com/Faramarzfdgl/Faramarzfdgl/main/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2026 21:49:15 UTC
+ Last Updated on 14/07/2026 21:53:43 UTC
 <!--END_SECTION:waka-->
 </p>
