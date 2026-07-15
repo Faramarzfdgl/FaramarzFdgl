@@ -1,6 +1,14 @@
 <!-- Profile structure and layout curated by Faramarz. Feel free to use it, but a shoutout is appreciated! -->
+
 <div align="center">
-  <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1>
+  <h1>
+      <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+    <img  src="https://camo.githubusercontent.com/6bc659a07891421494f7b9fcc9d849feee45291dfdb693de0d3d029367fec633/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="70px"> 
+    Hey! Nice to see you.
+  </h1>  
+  <h3>
+    Welcome to my page! 
+  </h3>  
 </div>
 
 <h1 align="center">
@@ -72,13 +80,13 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 51 Bytes Used in GitHub's Storage 
+> 📦 50 Bytes Used in GitHub's Storage 
  > 
 > 🏆 19 Contributions in the Year 2026
  > 
@@ -125,11 +133,7 @@ No Activity Tracked This Week
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Faramarzfdgl/Faramarzfdgl/main/assets/bar_graph.png)
-
-
- Last Updated on 15/07/2026 18:22:51 UTC
+ Last Updated on 15/07/2026 15:43:43 UTC
 <!--END_SECTION:waka-->
 </p>
