@@ -72,13 +72,13 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 50 Bytes Used in GitHub's Storage 
+> 📦 51 Bytes Used in GitHub's Storage 
  > 
 > 🏆 19 Contributions in the Year 2026
  > 
@@ -125,7 +125,11 @@ No Activity Tracked This Week
 
 
 
+**Timeline**
 
- Last Updated on 15/07/2026 15:43:43 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/Faramarzfdgl/Faramarzfdgl/main/assets/bar_graph.png)
+
+
+ Last Updated on 15/07/2026 18:22:51 UTC
 <!--END_SECTION:waka-->
 </p>
