@@ -58,16 +58,25 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaramarzFdgl&theme=tokyonight&hide_border=true" alt="Activity Graph" />
 </div>
 
+<br>
+
+### 📈 My Coding Activity & Skills:
+<div align="center">
+  <img src="https://wakatime.com/share/@e1f1c34b-f103-417e-9971-a72ad6c84518/a17b6dd3-16ed-42dc-a872-998bb54c44f6.svg" alt="Coding Activity" width="48%" /> 
+  &nbsp;&nbsp;&nbsp; 
+  <img src="https://wakatime.com/share/@e1f1c34b-f103-417e-9971-a72ad6c84518/07c524f6-7492-43c0-bb86-95742aa34bb4.svg" alt="Languages" width="48%" />
+</div>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 37 Bytes Used in GitHub's Storage 
+> 📦 36 Bytes Used in GitHub's Storage 
  > 
-> 🏆 16 Contributions in the Year 2026
+> 🏆 15 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,20 +87,20 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-🌆 Daytime                9 commits           █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-🌃 Evening                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-🌙 Night                  30 commits          █████████████████░░░░░░░░   69.77 % 
+🌞 Morning                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+🌆 Daytime                8 commits           █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+🌃 Evening                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+🌙 Night                  30 commits          ██████████████████░░░░░░░   71.43 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  10 commits          ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
-Wednesday                14 commits          ████████░░░░░░░░░░░░░░░░░   32.56 % 
-Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Tuesday                  10 commits          ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+Wednesday                13 commits          ████████░░░░░░░░░░░░░░░░░   30.95 % 
+Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 18 commits          ██████████░░░░░░░░░░░░░░░   41.86 % 
+Saturday                 18 commits          ███████████░░░░░░░░░░░░░░   42.86 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -117,6 +126,6 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Faramarzfdgl/Faramarzfdgl/main/assets/bar_graph.png)
 
 
- Last Updated on 15/07/2026 13:41:17 UTC
+ Last Updated on 15/07/2026 02:05:00 UTC
 <!--END_SECTION:waka-->
 </p>
