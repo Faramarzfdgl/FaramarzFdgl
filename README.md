@@ -1,3 +1,4 @@
+<!-- Profile structure and layout curated by Faramarz. Feel free to use it, but a shoutout is appreciated! -->
 <div align="center">
   <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1>
 </div>
