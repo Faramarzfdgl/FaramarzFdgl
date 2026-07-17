@@ -80,13 +80,13 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2015%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-93-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 54 Bytes Used in GitHub's Storage 
+> 📦 55 Bytes Used in GitHub's Storage 
  > 
 > 🏆 20 Contributions in the Year 2026
  > 
@@ -121,10 +121,11 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+MATLAB                   50 mins             █████████████████░░░░░░░░   67.38 % 
+Other                    24 mins             ████████░░░░░░░░░░░░░░░░░   32.62 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 ```text
@@ -134,6 +135,6 @@ No Activity Tracked This Week
 
 
 
- Last Updated on 16/07/2026 02:13:50 UTC
+ Last Updated on 17/07/2026 02:22:19 UTC
 <!--END_SECTION:waka-->
 </p>
