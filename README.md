@@ -80,9 +80,9 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2024%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-93-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-96-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -121,11 +121,11 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-MATLAB                   50 mins             █████████████████░░░░░░░░   67.38 % 
-Other                    24 mins             ████████░░░░░░░░░░░░░░░░░   32.62 % 
+MATLAB                   57 mins             █████████████████░░░░░░░░   68.46 % 
+Other                    26 mins             ████████░░░░░░░░░░░░░░░░░   31.54 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 15 mins        █████████████████████████   100.00 % 
+Unknown Project          1 hr 24 mins        █████████████████████████   100.00 % 
 ```
 
 ```text
@@ -135,6 +135,6 @@ Unknown Project          1 hr 15 mins        ███████████�
 
 
 
- Last Updated on 17/07/2026 02:22:19 UTC
+ Last Updated on 18/07/2026 02:06:38 UTC
 <!--END_SECTION:waka-->
 </p>
