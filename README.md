@@ -80,6 +80,8 @@
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%205%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-101-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -94,6 +96,37 @@
  > 
 > 🔑 1 Private Repository 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+🌆 Daytime                12 commits          ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+🌃 Evening                3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+🌙 Night                  30 commits          ████████████████░░░░░░░░░   63.83 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  10 commits          █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+Wednesday                18 commits          ██████████░░░░░░░░░░░░░░░   38.30 % 
+Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 18 commits          ██████████░░░░░░░░░░░░░░░   38.30 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    0 secs              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Unknown Project          0 secs              █████████████████████████   100.00 % 
+```
+
 ```text
 
 ```
@@ -101,6 +134,6 @@
 
 
 
- Last Updated on 25/07/2026 02:22:04 UTC
+ Last Updated on 26/07/2026 02:28:11 UTC
 <!--END_SECTION:waka-->
 </p>
