@@ -80,7 +80,9 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-105-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-57%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -138,6 +140,6 @@ No AI Coding Activity Tracked This Week
 
 
 
- Last Updated on 29/07/2026 02:13:56 UTC
+ Last Updated on 30/07/2026 02:03:01 UTC
 <!--END_SECTION:waka-->
 </p>
